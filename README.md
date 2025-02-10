@@ -1,4 +1,4 @@
-# 🏥 Face Mask Detection Using CNN
+#  Face Mask Detection Using CNN
 
 ## 📌 Project Overview  
 This deep learning project uses **Convolutional Neural Networks (CNNs)** to classify images as **"With Mask"** or **"Without Mask"**, helping automate public safety measures.  
@@ -32,5 +32,3 @@ This deep learning project uses **Convolutional Neural Networks (CNNs)** to clas
 - **Confusion matrix** visualization  
 - Model predicts face mask presence with **high accuracy**  
 
-## 📚 Conclusion  
-This project demonstrates how **CNNs** can assist in **public health compliance**, enabling real-time detection of mask usage in crowded spaces.  
